@@ -1,0 +1,23 @@
+# Itens de Backlog
+
+1 - Novo Produto: Funcionalidade que ainda não e existe no produto;
+2 - Melhorias: Alterações em recursos existentes para aprimorar a experiência de usuário;
+3 - Bugs: Defeitos e falhas;
+4 - Dívida Técnica : trabalho nescessário para refatorar o código;
+5 - Mudança de Design e Problemas de UX: Alterações para melhorar a  aparência do produto;
+6 - Aquisição de Conhecimento (Spikes): investigação ou protótipo para reduzir as incertezas sobre o produto;
+7 - Solicitações de Clientes e Partes : Demandas vindas de usuários e outras pessoas envolvidas no projeto;
+
+ 1.1 - Requisitos Não Funcionais :
+    1.1.1 - Descritivo Técnico
+      # Beckend desenvolvido em Java 21 ;
+      # Maven para gestão de dependência de projeto;
+      # Swing para interface com o usuário;
+      # Versionamento do projeto com o Git/GitHub;
+
+
+ 1.2 - Requisito Funcionais :
+     1.2.1 - Login do usuário
+       1.2.2 - Cadastro Frentista;
+        1.2.3 - Cadastro Produto ;
+         1.2.4- Gestão ;
